@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EnterMovie</string>
+
+    <string name="movie_name_text_hint">Type movie name here</string>
+    <string name="movie_year_text_hint">Type movie name here</string>
+
+    <string name="search_button_text">Search</string>
+
+    <string name="api_url">http://www.omdbapi.com/?plot=full&amp;r=json&amp;t=</string>
+</resources>
